@@ -1,1 +1,6 @@
-const board = [];
+const board = [
+  [' ', ' ', ' '],
+  [' ', ' ', ' '],
+  [' ', ' ', ' ']
+];
+console.log(board);
